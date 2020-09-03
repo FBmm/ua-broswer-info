@@ -1,2 +1,2 @@
-# ua-broswer-info
+# ua-browser-info
 UserAgent Browser Info
